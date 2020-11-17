@@ -1,4 +1,13 @@
-### Hi there 👋
+# I Commit This!
+## I Commit This!
+Hi!.. I just cerated my GitHub repository..
+and I am learning languages...
+HTML, CSS, JavaScript, Python...
+It's interesting to hooked up with...
+I believe, soon I will design my pages....
+<!--### Hi there 👋-->
+
+
 
 <!--
 **rkpathakrajesh/rkpathakrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
