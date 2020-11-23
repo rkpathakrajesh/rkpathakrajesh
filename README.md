@@ -1,8 +1,11 @@
-# I Commit This!
-## I Commit This!
-Hi!.. I just cerated my GitHub repository..
-and I am learning languages...
-HTML, CSS, JavaScript, Python...
+#### Friends! Data Analysit, Data Scientists, DBAs
+
+I am Data Analyst, Data Manager
+11 Years plus professional carreer
+Primary Data Science Language is Python
+Data Analysis in Execel
+Data Management RDBMS, SQL
+Cerated my GitHub repository..
 It's interesting to hooked up with...
 I believe, soon I will design my pages....
 <!--### Hi there 👋-->
