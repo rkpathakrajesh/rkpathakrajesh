@@ -1,13 +1,12 @@
 #### Friends! Data Analysit, Data Scientists, DBAs
 
-I am Data Analyst, Data Manager
-11 Years plus professional carreer
-Primary Data Science Language is Python
-Data Analysis in Execel
-Data Management RDBMS, SQL
-Cerated my GitHub repository..
-It's interesting to hooked up with...
-Join my Blogger on https://risinghopesinstruggle.blogspot.com/ my views on issues
+-I am Data Analyst, Data Manager
+-11 Years plus professional carreer
+-Primary Data Science Language is Python
+-Data Analysis in Execel
+-Data Management RDBMS MySQL,PostgreSQL
+-Join my Blogger on https://risinghopesinstruggle.blogspot.com/ my views on issues
+-Cerated my GitHub repository, It's interesting to hooked up with...
 <!--### Hi there 👋-->
 
 
