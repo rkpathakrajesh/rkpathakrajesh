@@ -14,6 +14,7 @@
 
 -Cerated my GitHub repository, It's interesting to hooked up with...
 
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 <!--### Hi there 👋-->
 
 
