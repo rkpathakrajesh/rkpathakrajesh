@@ -7,7 +7,7 @@ Data Analysis in Execel
 Data Management RDBMS, SQL
 Cerated my GitHub repository..
 It's interesting to hooked up with...
-I believe, soon I will design my pages....
+
 <!--### Hi there 👋-->
 
 
