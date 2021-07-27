@@ -4,7 +4,7 @@
 
 -11 Years plus professional carreer
 
--Primary Data Science Language is Python
+-Data Science Python
 
 -Data Analysis in Execel
 
