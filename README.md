@@ -1,18 +1,21 @@
 #### Friends! Data Analysit, Data Scientists, DBAs
 
--I am Data Analyst, Data Manager
+-I am Data Analyst, currently working on Power BI and SQL server
 
 -11 Years plus professional carreer
 
--Data Science Python
+-Data Management SQL Server, ORACLE, MySQL,PostgreSQL, ACESS, Execel
 
--Data Analysis in Execel
+-Data visualization Power BI
 
--Data Management RDBMS MySQL,PostgreSQL
+-Data Science Python, R
+
+-You can reach out me on rkpathakrajesh@gmail.com
+
+-Join my youtube chennal https://www.youtube.com/channel/UCY9I747EwFKUa7BGuj936uA/videos
 
 -Join my Blogger on https://risinghopesinstruggle.blogspot.com/ my views on issues
 
--Cerated my GitHub repository, It's interesting to hooked up with...
 
 ![Visitor Count](https://profile-counter.glitch.me/{rkpathakrajesh}/count.svg)
 <!--### Hi there 👋-->
