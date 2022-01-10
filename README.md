@@ -4,7 +4,7 @@
 
 -11 Years plus professional carreer
 
--Data Management SQL Server, ORACLE, MySQL,PostgreSQL, ACESS, Execel
+-Data Management SQL Server, ORACLE, MySQL,PostgreSQL, ACESS, Excel
 
 -Data visualization Power BI
 
