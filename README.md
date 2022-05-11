@@ -1,4 +1,4 @@
-#### Friends! Data Analysit, Data Scientists, DBAs
+#### Data Analyst, DBAs
 
 -I am Data Analyst, currently working on Power BI and SQL server
 
