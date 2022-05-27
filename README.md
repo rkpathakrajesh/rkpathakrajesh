@@ -2,7 +2,7 @@
 
 -I am Data Analyst, currently working on Power BI and SQL server
 
--9 Years plus professional carreer
+-9 plus Years professional carreer
 
 -Data Management SQL Server, ORACLE, MySQL,PostgreSQL, ACESS, Excel
 
