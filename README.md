@@ -14,7 +14,7 @@
 
 -Join my youtube chennal https://www.youtube.com/channel/UCY9I747EwFKUa7BGuj936uA/videos
 
--Join my Blogger on https://risinghopesinstruggle.blogspot.com/ my views on issues
+-Join my Blogger on https://risinghopesinstruggle.blogspot.com/
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{rkpathakrajesh}/count.svg)
