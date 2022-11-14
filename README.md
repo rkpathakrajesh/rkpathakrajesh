@@ -10,6 +10,8 @@
 
 -Data Science Python, R
 
+- Python Developer
+
 -You can reach out me on rkpathakrajesh@gmail.com
 
 -Join my youtube chennal https://www.youtube.com/channel/UCY9I747EwFKUa7BGuj936uA/videos
